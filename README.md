@@ -36,7 +36,7 @@ For example,
 python3 run_experiment.py --config_name HALFCHEETAH_ONAIL --il_max_demos 10 --seed 0
 ```
 runs O-NAIL on the HalfCheetah environment using 10 expert demonstrations (trajectories of 1000 steps).
-For additional parameters check [run_experiments.py](run_experiments.py) or [configs/offline_il_configs.py](configs/offline_il_configs.py).
+For additional parameters check [run_experiment.py](run_experiment.py) or [configs/offline_il_configs.py](configs/offline_il_configs.py).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
