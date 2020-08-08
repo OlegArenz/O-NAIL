@@ -35,7 +35,7 @@ For example,
 ```
 python3 run_experiment.py --config_name HALFCHEETAH_ONAIL --il_max_demos 10 --seed 0
 ```
-Run O-NAIL on the HalfCheetah environment using 10 expert demonstrations (trajectories of 1000 steps).
+runs O-NAIL on the HalfCheetah environment using 10 expert demonstrations (trajectories of 1000 steps).
 For additional parameters check [run_experiments.py](run_experiments.py) or [configs/offline_il_configs.py](configs/offline_il_configs.py).
 
 ## License
