@@ -12,7 +12,7 @@ pip3 install -r requirements.txt
 As the experiments depend on MuJoCo, you need a valid license and setup [mujoco-py](https://github.com/openai/mujoco-py).
 
 ## Downloading Expert Demonstrations
-you can run the bash script
+You can run the bash script
 ```
 sh download_demos.sh
 ```
