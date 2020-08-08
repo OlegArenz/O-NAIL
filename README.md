@@ -14,7 +14,7 @@ As the experiments depend on MuJoCo, you need a valid license and setup [mujoco-
 ## Downloading Expert Demonstrations
 you can run the bash script
 ```
-sh downlowad_demos.sh
+sh download_demos.sh
 ```
 to obtain the demos and extract them to the correct directory. Alternatively, you can [download the archive manually](https://zenodo.org/record/3976695/files/demos.tar.gz) and extract it to data/
 
